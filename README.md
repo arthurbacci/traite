@@ -45,4 +45,5 @@ syntax highlighting (Pandoc port);
 Language.
 
 ## Licence
-The license is written on each file. If there's no license, it's licensed under the MIT license, with an exception to the files at the ``boilerplate/`` directory, which are licenced under Public Domain. 
+
+Public domain :)
