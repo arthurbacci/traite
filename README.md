@@ -30,7 +30,7 @@ name rhymes with "doceiro" (a Portuguese word for "confectioner").
 
 Luiz Antônio Rangel, [from the original traite](https://github.com/Projeto-Pindorama/traite.old)
 
-### Other projects intrinsically related to TDLT that you may want to chip in (just in case you do not hack with Shell)
+### Related projects
 
 * [Silicon Tabula](https://github.com/Projeto-Pindorama/Silicon-Tabula) - All
   the Pindorama project *tabulas* (documentation), compiled in one repository;
@@ -43,10 +43,6 @@ syntax highlighting (Pandoc port);
 * [XeTeX](http://xetex.sourceforge.net) - Unicode-based TEX;
 * [ksh93](http://www.kornshell.com) - The KornShell Command And Programming
 Language.
-
-## Who can I blame for it?
-
-Me, who speaks to you, Luiz Antônio (a.k.a ``takusuman``).
 
 ## Licence
 The license is written on each file. If there's no license, it's licensed under the MIT license, with an exception to the files at the ``boilerplate/`` directory, which are licenced under Public Domain. 
