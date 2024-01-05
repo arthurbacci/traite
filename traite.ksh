@@ -1,8 +1,9 @@
 #!/usr/bin/env ksh93
+
 #
-# #
-# Originally license under the MIT License by Luiz Antônio Range (takusuman)
-# #
+# Forked from the work done by Luiz Antônio Rangel (takusuman)
+# and licensed under the public domain
+#
 # Traité de la tabula: HTML (and maybe PDF?) generator for Markdown
 # documentation in a "tabula-style".
 #
