@@ -1,7 +1,11 @@
 #!/usr/bin/env ksh93
-
+#
+# #
+# Originally license under the MIT License by Luiz Antônio Range (takusuman)
+# #
 # Traité de la tabula: HTML (and maybe PDF?) generator for Markdown
 # documentation in a "tabula-style".
+#
 
 # Include the global configuration file.
 . /usr/etc/traite.conf
